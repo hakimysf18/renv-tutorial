@@ -3,3 +3,12 @@ title: "analysis"
 format: html
 ---
 
+
+```{r}
+library(palmerpenguins)
+```
+
+```{r}
+penguins
+```
+
